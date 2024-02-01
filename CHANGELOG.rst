@@ -2,6 +2,11 @@
 Changelog for package micro_ros_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add contributing file (`#9 <https://github.com/micro-ROS/micro_ros_msgs/issues/9>`_) (`#10 <https://github.com/micro-ROS/micro_ros_msgs/issues/10>`_)
+* Update package.xml (`#4 <https://github.com/micro-ROS/micro_ros_msgs/issues/4>`_) (`#5 <https://github.com/micro-ROS/micro_ros_msgs/issues/5>`_)
+
 3.0.0 (2023-06-06)
 ------------------
 
