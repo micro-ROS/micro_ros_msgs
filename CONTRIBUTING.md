@@ -1,4 +1,4 @@
-# Contributing
+# Contributing Guidelines
 
 Want to contribute? Great! You can do so through the standard GitHub pull
 request model. For large contributions we do encourage you to file a ticket in
