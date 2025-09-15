@@ -4,7 +4,8 @@
   <name>micro_ros_msgs</name>
   <version>3.0.1</version>
   <description>Definitions for the ROS 2 msgs entities information used by micro-ROS to leverage its functionality to the same level as ROS 2, by means of a dedicated graph manager</description>
-  <maintainer email="antoncasas@eprosima.com">Anton Casas</maintainer>
+  <maintainer email="eugeniocollado@eprosima.com">Eugenio Collado</maintainer>
+  <maintainer email="carlosespinoza@eprosima.com">Carlos Espinoza</maintainer>
   <license>Apache License 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
